@@ -14,7 +14,7 @@ This is a Streamlit-based application that enables you to upload multiple PDF fi
 - Activate the environment  
 - Install the dependencies: `pip install -r requirements.txt`  
 - Add a `.env` file in the root directory with your Azure OpenAI API credentials
-- Run command : streamlit run main.py
+- Run command : `streamlit run main.py`
 
 
 
